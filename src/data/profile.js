@@ -52,7 +52,6 @@ export const NAV_LINKS = [
   { id: "work", label: "Work" },
   { id: "about", label: "About" },
   { id: "stack", label: "Stack" },
-  { id: "contact", label: "Contact" },
 ];
 
 export const HERO_BG =
