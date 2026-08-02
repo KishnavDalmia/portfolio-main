@@ -58,4 +58,4 @@ export const NAV_LINKS = [
 export const HERO_BG =
   "https://images.unsplash.com/photo-1744479039662-b4bd430a29ca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMjV8MHwxfHNlYXJjaHwzfHxLb2xrYXRhJTIwYXJjaGl0ZWN0dXJlJTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwwfHx8fDE3Nzk5MDE4NTh8MA&ixlib=rb-4.1.0&q=85";
 export const FOOTER_TEXTURE =
-  "https://static.prod-images.emergentagent.com/jobs/bf40ce40-274e-4ddd-a939-fdd257a99ed4/images/92ec6d7aca3ad77a31e1f7177a8939f3dd58267eb0f8248e81f6098739adc433.png";
+  "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E";
