@@ -53,9 +53,6 @@ export const PROJECTS = [
     image: "/trip1.png",
   },
   {
-
-  },
-  {
     id: "04",
     year: "2025",
     title: "MoneyBall — Options Strategy Backtesting and Analytics Console",
