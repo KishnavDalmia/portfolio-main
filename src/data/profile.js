@@ -39,7 +39,7 @@ export const PROJECTS = [
     stack: ["React", "FASTApi","Python","AWS", "Mistral", "TailwindCSS", "Spotify API","Dynamodb","Rekognition","Mistral"],
     role: "Creator",
     link: "https://github.com/KishnavDalmia/harmony_1",
-    image: "/harmony.png",
+    image: "/harmony.jpeg",
   },
   {
     id: "03",
@@ -50,7 +50,7 @@ export const PROJECTS = [
     stack: ["React", "ExpressJS", "Node.js", "MongoDB", "TailwindCSS"],
     role: "Web Developer",
     link: "https://github.com/KishnavDalmia/TripVerse",
-    image: "/trip1.png",
+    image: "/tripverse.png",
   },
   {
     id: "04",
