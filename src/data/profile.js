@@ -21,7 +21,29 @@ export const PROFILE = {
 export const PROJECTS = [
   {
     id: "01",
-    year: "2025",
+    year: "2026",
+    title: "RegSentinel - AI Powered Regulatory Compliance Monitoring and Alerting System using FSM",
+    summary:
+      "Options strategy builder with multi-leg configuration, Black-Scholes Greeks pricing, NSE market data, and a backtesting engine tracking returns, drawdown, Sharpe ratio, and win rate.",
+    stack: ["React", "FASTApi","Python","MongoDB", "Mistral", "TailwindCSS"],
+    role: "Creator",
+    link: "https://github.com/KishnavDalmia/RegSentinel",
+    image: "/regsentinel.png",
+  },
+  {
+    id: "02",
+    year: "2026",
+    title: "Harmony - AWS Powered Smart Shuffler with Facial Emotion Analysis for Song Recommendations",
+    summary:
+      "Smart shuffler powered by AWS services which uses facial emotion analysis and user's listening patterns for song recommendations.",
+    stack: ["React", "FASTApi","Python","AWS", "Mistral", "TailwindCSS", "Spotify API","Dynamodb","Rekognition","Mistral"],
+    role: "Creator",
+    link: "https://github.com/KishnavDalmia/harmony_1",
+    image: "/harmony.png",
+  },
+  {
+    id: "03",
+    year: "2024",
     title: "TripVerse — Collaborative Travel Planning Platform",
     summary:
       "Real-time collaborative trip planning with friends — day-by-day itineraries, automatic expense splitting ledger, and debounced companion search for stress-free group travel.",
@@ -31,8 +53,11 @@ export const PROJECTS = [
     image: "/trip1.png",
   },
   {
-    id: "02",
-    year: "2024",
+
+  },
+  {
+    id: "04",
+    year: "2025",
     title: "MoneyBall — Options Strategy Backtesting and Analytics Console",
     summary:
       "Options strategy builder with multi-leg configuration, Black-Scholes Greeks pricing, NSE market data, and a backtesting engine tracking returns, drawdown, Sharpe ratio, and win rate.",
